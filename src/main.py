@@ -6,22 +6,6 @@ daftarBuah = [
     [2, 'Anggur', 25, 20000]
 ]
 
-
-#s skema ke-1
-# daftarBuah = {
-#     'indeks': [0, 1, 2],
-#     'nama': ['Apel', 'Jeruk', 'Anggur'],
-#     'stock': [20, 15, 25],
-#     'harga'
-# }
-
-# skema ke-2
-# daftarBuah = {
-#     'Apel': [0, 20, 10000],
-#     'Jeruk': [1, 15, 15000],
-#     'Anggur': [2, 20, 20000]
-# }
-
 def main():
 # print('Selamat Datang di Pasar Buah!')
 
